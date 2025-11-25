@@ -1,0 +1,13 @@
+# YouTube Cookies Template
+# 
+# To use cookies for authentication:
+# 1. Install a browser extension to export cookies (e.g., "Get cookies.txt" for Chrome)
+# 2. Log into YouTube in your browser
+# 3. Export cookies for youtube.com using the extension
+# 4. Save the exported content to cookies.txt in this directory
+# 5. Set use_cookies=True in the configuration
+#
+# Note: Cookies may expire over time and need to be refreshed
+#
+# Alternative: Use --cookies-from-browser option with yt-dlp
+# Example: yt-dlp --cookies-from-browser chrome <URL>

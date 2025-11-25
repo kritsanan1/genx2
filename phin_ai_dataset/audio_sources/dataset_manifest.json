@@ -1,0 +1,52 @@
+{
+  "total_files": 4,
+  "patterns": {
+    "unknown": [
+      "test_melody.wav",
+      "ลายนกไส่บินข้ามทุ่ง.wav",
+      "ลายมโหรีอีสาน.wav",
+      "ลายแมลงภู่ตอมดอกไม้.wav"
+    ]
+  },
+  "files": [
+    {
+      "filename": "test_melody.wav",
+      "path": "test_melody.wav",
+      "pattern": "unknown",
+      "size_bytes": 441044,
+      "duration_seconds": null,
+      "generated_at": "2025-11-25 12:45:37",
+      "synthetic": true
+    },
+    {
+      "filename": "ลายนกไส่บินข้ามทุ่ง.wav",
+      "path": "ลายนกไส่บินข้ามทุ่ง.wav",
+      "pattern": "unknown",
+      "size_bytes": 2528166,
+      "duration_seconds": null,
+      "generated_at": "2025-11-25 12:45:37",
+      "synthetic": true
+    },
+    {
+      "filename": "ลายมโหรีอีสาน.wav",
+      "path": "ลายมโหรีอีสาน.wav",
+      "pattern": "unknown",
+      "size_bytes": 2994354,
+      "duration_seconds": null,
+      "generated_at": "2025-11-25 12:45:37",
+      "synthetic": true
+    },
+    {
+      "filename": "ลายแมลงภู่ตอมดอกไม้.wav",
+      "path": "ลายแมลงภู่ตอมดอกไม้.wav",
+      "pattern": "unknown",
+      "size_bytes": 2615898,
+      "duration_seconds": null,
+      "generated_at": "2025-11-25 12:45:37",
+      "synthetic": true
+    }
+  ],
+  "created_at": "2025-11-25 12:45:37",
+  "downloader_type": "mock",
+  "synthetic_data": true
+}
